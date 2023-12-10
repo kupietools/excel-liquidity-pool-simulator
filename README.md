@@ -12,7 +12,7 @@ So, then, what's smarter? Trading Ethereum tokens, or depositing them in an AMM'
 
 The algorithms by which an AMM calculates prices, pool token issuance, and exchange rates can be difficult to easily understand. This Excel worksheet lifts the lid by modeling a Uniswap AMM liquidity pool, using the exact calculations from the original Uniswap Core smart contracts. You can now observe how exchange rates, slippage, LP token issuance, and impermanent losses change, transaction-by-transaction. If you're an Ethereum or ERC token trader, this is very useful to understand.
 
-# I AM
+# I am
 Michael E. Kupietz, software engineering, consulting, & support for FileMaker Pro, Full-Stack Web, Desktop OS, & TradingView platforms  
 https://kupietz.com (Business info)  
 https://github.com/kupietools (Free software)  
